@@ -1,0 +1,12 @@
+{
+    "name": "d1001001/ioc",
+    "description": "Dependency manager inspired by Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Pecher",
+            "email": "dan.pecher@gmail.com"
+        }
+    ],
+    "require": {}
+}
